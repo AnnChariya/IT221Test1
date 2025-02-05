@@ -18,6 +18,7 @@
 				<li><a herf="guest.php">สมุดเยี่ยม</li>
 				<li><a href="contact.php">ติดต่อ</li>
 				<li><a href="contact.php">รายละเอียดเพิ่มเติม</li>
+                <li><a href="contact.php">ช่วงเวลาเข้าพัก</li>
 				</ul><p>
 				<?php include "login_form.php";?>
 			</td>
