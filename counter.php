@@ -9,7 +9,7 @@
         $pgcount = $dbarr["countnum"];
     }
     $pgcount = $pgcount + 1;
-    $pgcount = "00000" . $pgcount;
+    $pgcount = "KFC" . $pgcount;
     $pgcount = substr($pgcount, -6);
     echo "$pgcount";
 
