@@ -13,6 +13,6 @@
     $pgcount = substr($pgcount, -6);
     echo "$pgcount";
 
-    $sql = "Update counter set countnum = '$pgcount' where id = 1";5485565
+    $sql = "Update counter set countnum = '$pgcount' where id = 1";5485565พ
     $result = mysqli_query($link,$sql);
 ?>
