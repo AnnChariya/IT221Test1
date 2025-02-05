@@ -7,7 +7,7 @@
     $result = mysqli_query($link,$sql);
     while ($dbarr = mysqli_fetch_array($result)){
         $pgcount = $dbarr["countnum"];
-    }
+    }ssssssssssssssssssssssss
     $pgcount = $pgcount + 1;
     $pgcount = "00000" . $pgcount;
     $pgcount = substr($pgcount, -6);
